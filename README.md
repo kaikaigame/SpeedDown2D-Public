@@ -14,7 +14,7 @@ https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
   
 https://assetstore.unity.com/packages/2d/characters/pixel-adventure-2-155418  
   
-Unity m_EditorVersion:  2021.1.20f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
 KEYBOARD  
   
